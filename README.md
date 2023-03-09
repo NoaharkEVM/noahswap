@@ -2,7 +2,7 @@
 
 This file contains all contracts used in NoahSwap.
 
-## Existing projects
+# Existing projects
 
 | Project name                                                          | Description                                                                                                                | Solidity version(s)      |
 | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
